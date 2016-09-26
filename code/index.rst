@@ -56,9 +56,8 @@ API Documentation
 -----------------
 
 We have documented the API for MPF and MPF-MC. That documentation
-lives at `api.missionpinball.com <http://api.missionpinball.com>`_, and it's the reference we use
-ourselves when writing MPF.
-
+lives at  `http://mpf-api.readthedocs.io/en/latest/ <http://mpf-api.readthedocs.io/en/latest/>`_ and it's 
+the reference we use ourselves when writing MPF.
 
 .. toctree::
    :maxdepth: 1
